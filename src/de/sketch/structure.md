@@ -1,0 +1,42 @@
+# Structure
+
+- Einführung
+  - Motivation
+- Probleme
+  - Grundlegende Faltschannahmen die das Bildungssystem voraussetzt
+    - Menschen Wollen nicht lernen und sind grundsätzlich faul
+      - Menschen müssen zum Lernen gezwungen werden
+      - unter Druck sind Menschen Körperlich und Geistig leistungsfähiger
+      - mit Druck lässt sich faulheit bekämpfen
+    - Bewertungen sind sinnvoll
+      - Bewertungen können fair sein
+      - Bewertungen können einen Menschen objektiv bewerten
+      - Bewertungen Motivieren Schüler
+    - Prüfungen sind sinnvoll
+      - eine Prüfung kann den Lernstand eines Schülers überprüfen
+      - was in eine Prüfung bei der der Prüfling in seinen Hilfsmitteln eingeschränkt wird kann eine reelle Relevants haben
+    - Menschen sind gute Lehrer
+      - Lehrer behandeln Schüler gleich
+      - Lehrer beurteilen Schüler fair
+      - Lehrer vervolgen vorallem das Ziel ihren Schülern die best mögliche Bildung zu ermöglichen
+      - Lehrer solten merklich über ihren Schülern stehen
+      - Lehrer haben Wissen, Schüler nicht
+      - Lehrer müssen sich gegen Schüler durchsetzen
+    - Jeder hat die selben Chancen
+    - Kreativität Spielt in für Bildung nur eine untergeordneten Rolle
+    - Jeder lernt auf die gleiche Art und Weise
+    - Bildung muss/darf keinen Spaß machen
+    - Nach der Schule hören Menschen Auf zu lernen
+    - Es ist möglich und Sinnvoll einem Menschen etwas gegen seinen Willen beizubringen
+- Lösung
+  - Sofort umsetzbar
+    - keine Bewertungen
+    - keine Prüfungen
+  - Edutopia, eine Welt mit idealer Bildung
+    - oberste Maxime, die Kreativität und Neugier der Schüler muss gewekt und erhalten werden
+    - Lehrer/Lernunterstützung
+      - stehen auf einer höhe mit Schülern
+    - Lernen mit auf den Schüler abgestimmten Konzepten
+      - Projektlernen
+        - Schüler denken sich, mit Hilfe von Lehren, einzel oder in Gruppen, ein Projekt aus an dem sie Arbeiten wollen
+        - Schüler bringen sich Fähigkeiten die sie zur Durchführung benötigen bei(mit Hilfestellung von Lehrern)
