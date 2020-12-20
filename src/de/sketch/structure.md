@@ -2,7 +2,7 @@
 
 - Einführung
   - Motivation
-- Probleme
+- Problem
   - Grundlegende Faltschannahmen die das Bildungssystem voraussetzt
     - Menschen Wollen nicht lernen und sind grundsätzlich faul
       - Menschen müssen zum Lernen gezwungen werden
@@ -40,3 +40,16 @@
       - Projektlernen
         - Schüler denken sich, mit Hilfe von Lehren, einzel oder in Gruppen, ein Projekt aus an dem sie Arbeiten wollen
         - Schüler bringen sich Fähigkeiten die sie zur Durchführung benötigen bei(mit Hilfestellung von Lehrern)
+
+## unterstützende Quellen
+
+- Unser Schulsystem ist Mist! | Harald Lesch https://www.youtube.com/watch?v=-q0Sm8Kldn0
+- Weg mit den Hausaufgaben! | Harald Lesch https://www.youtube.com/watch?v=RcPtFgp-xmU
+- So sinnvoll und gerecht sind Schulnoten (Ganze Folge) | Quarks https://www.youtube.com/watch?v=2DFehiS-8oo
+- Lesch fordert: "Schule erst ab 09:00 Uhr!" - Markus Lanz vom 05.03.2020 | ZDF https://www.youtube.com/watch?v=frTtnb9Cvqg
+- PARADOX 16 — Richard David Precht: „Bildung versus Wissen“ https://www.youtube.com/watch?v=on-O5v3UcBk
+- DsiN Kongress 2016: Richard David Precht zur "Zukunft der Bildung" https://www.youtube.com/watch?v=cfRD-tHafxg
+- Schule der Zukunft – Leschs Kosmos [Ganze TV-Folge] | Harald Lesch https://www.youtube.com/watch?v=ksCrRr6NBg0
+- Richard David Precht über die Zukunft der deutschen Wirtschaft | Markus Lanz vom 21. Oktober 2020 https://www.youtube.com/watch?v=Z4FK0xF4Ea8
+- Warum sich unser Schulsystem ändern muss | #mirkosmeinung https://www.youtube.com/watch?v=weB79v4Zstk
+- TheSimpleClub – Warum Schule scheiße ist (TINCON Berlin 2017) https://www.youtube.com/watch?v=plPBeHzv5mc
